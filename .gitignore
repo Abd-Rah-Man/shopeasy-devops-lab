@@ -5,3 +5,6 @@ crash.log
 .env 
 .DS_Store
 variables.tf
+*.log
+.vscode/
+.idea/
